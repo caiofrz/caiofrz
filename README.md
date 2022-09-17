@@ -11,7 +11,7 @@
   <br>
   <a href="https://github.com/caiofrz">
   <img height=120em src="https://github-readme-stats.vercel.app/api?username=caiofrz&show_icons=true&theme=algolia">
-  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofrz&layout=compact&show_icons=true&theme=algolia">
+  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofrz&layout=compact&theme=algolia">
 </div>
 
 ##
