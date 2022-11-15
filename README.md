@@ -1,4 +1,4 @@
-## E aí, bem vindo ao meu github! Eu sou o Caio, mas fica a vontade pra me chamar de Caioba também
+## E aí, bem vindo ao meu github! Eu sou o Caio, e tô tentando virar um garoto de programa 😅.
 
 
 - 🎒 Atualmente sou graduando em Análise e Desenvolvimento de Sistemas
