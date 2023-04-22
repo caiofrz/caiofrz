@@ -7,14 +7,6 @@
 - ⚡ Participei do Clube da Robótica enquanto fazia TI e ganhei algumas paradinhas
 - 💬 Gosto muito de futebol, cs:go, música e filmes
 
-<div>
-  <br>
-  <a href="https://github.com/caiofrz">
-  <img height=120em src="https://github-readme-stats.vercel.app/api?username=caiofrz&show_icons=true&theme=algolia">
-  
-  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofrz&layout=compact&theme=algolia">
-</div>
-
 ## Tecnologias
 
 <div>
@@ -24,7 +16,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" heigth="80">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" heigth="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" heigth="80"/>
+</div>
 
+<div>
+  <br>
+  <a href="https://github.com/caiofrz">
+  <img height=120em src="https://github-readme-stats.vercel.app/api?username=caiofrz&show_icons=true&theme=algolia">
+  
+  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofrz&layout=compact&theme=algolia">
 </div>
 
 ##
