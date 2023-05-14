@@ -2,7 +2,7 @@
 
 
 - 🎒 Atualmente sou graduando em Análise e Desenvolvimento de Sistemas
-- 📚 Por agora tô com estudos focados em Java, HTML/CSS/JS
+- 📚 Por agora tô com estudos focados em Java e JavaScript
 - 💻 Sou Técnico em Informática pelo IFNMG - campus Almenara
 - ⚡ Participei do Clube da Robótica enquanto fazia TI e ganhei algumas paradinhas
 - 💬 Gosto muito de futebol, cs:go, música e filmes
