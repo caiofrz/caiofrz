@@ -1,15 +1,22 @@
-## E aí, bem vindo ao meu github! 😅
+<div style="display: inline_block" align="center"><br>
+
+  ## E aí, bem vindo ao meu github! 😅
+  - 🎒 Atualmente sou graduando em Análise e Desenvolvimento de Sistemas
+  - 📚 Por agora tô com estudos focados em Java e JavaScript
+  - 💻 Sou Técnico em Informática pelo IFNMG - campus Almenara
+  - ⚡ Participei do Clube da Robótica enquanto fazia TI e ganhei algumas paradinhas
+  - 💬 Gosto muito de futebol, cs:go, música e filmes
+
+</div>
 
 
-- 🎒 Atualmente sou graduando em Análise e Desenvolvimento de Sistemas
-- 📚 Por agora tô com estudos focados em Java e JavaScript
-- 💻 Sou Técnico em Informática pelo IFNMG - campus Almenara
-- ⚡ Participei do Clube da Robótica enquanto fazia TI e ganhei algumas paradinhas
-- 💬 Gosto muito de futebol, cs:go, música e filmes
+<div style="display: inline_block" align="center"><br>
+  
+   ## Tecnologias
+   
+</div>
 
-## Tecnologias
-
-<div>
+<div style="display: inline_block" align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" heigth="80" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" heigth="80">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" heigth="80">
@@ -18,9 +25,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" heigth="80"/>
 </div>
 
-##
+  <br>
 
-<div>
+<div style="display: inline_block" align="center"><br>
+  
+   ## Contate-me
+   
+</div>
+
+<div style="display: inline_block" align="center"><br>
   <a href="https://www.instagram.com/caio_frz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/caio_frzz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-ferraz-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -28,11 +41,11 @@
 </div>
 
 ## 
-
-<div>
+  <br>
+<div style="display: inline_block" align="center"><br>
   <br>
   <a href="https://github.com/caiofrz">
-  <img height=120em src="https://github-readme-stats.vercel.app/api?username=caiofrz&show_icons=true&theme=algolia">
+  <img height=150em src="https://github-readme-stats.vercel.app/api?username=caiofrz&show_icons=true&theme=algolia">
   
-  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofrz&layout=compact&theme=algolia">
+  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofrz&layout=compact&theme=algolia">
 </div>
