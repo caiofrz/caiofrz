@@ -9,7 +9,6 @@
 
 </div>
 
-
 <div style="display: inline_block" align="center"><br>
   
    ## Tecnologias
@@ -25,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" heigth="80"/>
 </div>
 
-  <br>
-
 <div style="display: inline_block" align="center"><br>
   
    ## Contate-me
@@ -41,7 +38,6 @@
 </div>
 
 ## 
-  <br>
 <div style="display: inline_block" align="center"><br>
   <br>
   <a href="https://github.com/caiofrz">
