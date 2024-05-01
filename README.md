@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Meu nome é Caio, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.<br><br>  Meu objetivo é me tornar um desenvolvedor Java trabalhando em projetos inovadores, desafiadores e relevantes. <br><br>Tenho focado meus estudos atualmente em desenvolvimento backend, especialmente com as ferramentas Java e Spring.  Recentemente, também comecei a estudar Angular.</p>
+<p align="left">Meu nome é Caio, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.<br><br>  Meu objetivo é me tornar um desenvolvedor back end trabalhando em projetos inovadores, desafiadores e relevantes. <br><br>Tenho focado meus estudos atualmente em desenvolvimento backend, especialmente com as ferramentas Java e Spring.  Recentemente, também comecei a estudar Angular.</p>
 
 ###
 
