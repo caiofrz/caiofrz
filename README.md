@@ -7,8 +7,6 @@
   <a href="https://www.linkedin.com/in/caio-ferraz-almeida/" target="_blank"><img src="https://img.shields.io/badge/Caio Ferraz-0077B5?style=flat-square&logo=linkedin&logoColor=white"  
    target="_blank"></a>
   <a href="mailto:caioferrazalmeida.27@gmail.com"><img src="https://img.shields.io/badge/caioferrazalmeida.27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/caio_frz/" target="_blank"><img src="https://img.shields.io/badge/@caio__frz-E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/caio_frzz" target="_blank"><img src="https://img.shields.io/badge/@caio__frzz-1DA1F2?style=flat-square&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 ###
@@ -23,7 +21,11 @@
 
 ###
 
-<p align="left">Meu nome é Caio, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.<br><br>  Meu objetivo é me tornar um desenvolvedor back end trabalhando em projetos inovadores, desafiadores e relevantes. <br><br>Tenho focado meus estudos atualmente em desenvolvimento backend, especialmente com as ferramentas Java e Spring.  Recentemente, também comecei a estudar Angular.</p>
+<p align="left">Olá, meu nome é Caio, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Minha paixão é o desenvolvimento backend, com o objetivo de contribuir para projetos inovadores e desafiadores. Atualmente, sou desenvolvedor backend Jr. na Capgemini, onde trabalho com C# .NET e estou expandindo meus conhecimentos em computação em nuvem através da plataforma Microsoft Azure.
+
+Além da minha atuação na Capgemini, faço estágio voluntário no IFNMG-Campus Almenara, onde contribuo para o desenvolvimento do Sistema Pharus utilizando PHP e o framework Laravel. Minhas responsabilidades incluem a criação e melhoria de APIs REST seguras, integração com banco de dados MySQL e documentação com Swagger. Este estágio tem sido uma oportunidade incrível para me aprofundar em práticas profissionais como Scrum e revisões de código.
+
+Ademais, minhas habilidades em tecnologias backend e frontend, incluem Python, Java, Spring, HTML, CSS, JavaScript, Bootstrap e Angular. Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer profissionalmente.</p>
 
 ###
 
@@ -40,7 +42,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="25" alt="spring logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="25" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25" alt=".net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25" alt="laravel logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
   <img width="12" />
@@ -59,6 +67,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="25" alt="angularjs logo"  />
 </div>
