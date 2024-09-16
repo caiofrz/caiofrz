@@ -23,9 +23,7 @@
 
 <p align="left">Olá, meu nome é Caio, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Minha paixão é o desenvolvimento backend, com o objetivo de contribuir para projetos inovadores e desafiadores. Atualmente, sou desenvolvedor backend Jr. na Capgemini, onde trabalho com C# .NET e estou expandindo meus conhecimentos em computação em nuvem através da plataforma Microsoft Azure.
 
-Além da minha atuação na Capgemini, faço estágio voluntário no IFNMG-Campus Almenara, onde contribuo para o desenvolvimento do Sistema Pharus utilizando PHP e o framework Laravel. Minhas responsabilidades incluem a criação e melhoria de APIs REST seguras, integração com banco de dados MySQL e documentação com Swagger. Este estágio tem sido uma oportunidade incrível para me aprofundar em práticas profissionais como Scrum e revisões de código.
-
-Ademais, minhas habilidades em tecnologias backend e frontend, incluem Python, Java, Spring, HTML, CSS, JavaScript, Bootstrap e Angular. Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer profissionalmente.</p>
+Além da minha atuação na Capgemini, faço estágio voluntário no IFNMG-Campus Almenara, onde contribuo para o desenvolvimento do Sistema Pharus utilizando PHP e o framework Laravel.</p>
 
 ###
 
